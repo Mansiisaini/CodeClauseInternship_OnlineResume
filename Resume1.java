@@ -31,7 +31,7 @@ class Resume {
     }
 }
 
-public class Main {
+public class Resume1 {
     public static void main(String[] args) {
         // Sample data for the resume
         String fullName = "Mansi saini";
